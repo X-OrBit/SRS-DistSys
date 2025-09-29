@@ -4,3 +4,4 @@
 - Understanding Host Network Stack Overheads (SIGCOMM 2021). [Мини-задание](tasks/sem1.md)
 - Rethinking Software Runtimes for Disaggregated Memory (ASPLOS 2021). [Реферат](tasks/sem2.md)
 - Nightcore: Efficient and Scalable Serverless Computing for Latency-Sensitive, Interactive Microservices (ASPLOS 2021). [Вопросы](tasks/sem3.md)
+- Boki: Stateful Serverless Computing with Shared Logs (SOSP 2021). [Рецензия](tasks/sem4.md)
