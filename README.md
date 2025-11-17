@@ -10,7 +10,7 @@
 - Two Birds With One Stone: Designing a Hybrid Cloud Storage Engine for HTAP (VLDB 2024). **[Вопросы](tasks/sem7.md)**
 - Make your database system dream of electric sheep: towards self-driving operation (VLDB 2021). **[Реферат](tasks/sem8.md)**
 - Amazon Redshift Re-invented (SIGMOD 2022). **[Мини-задание](tasks/sem9.md)**
-- [TODO] Photon: A Fast Query Engine for Lakehouse Systems (SIGMOD 2022). **[Рецензия](tasks/sem10.md)**
+- Photon: A Fast Query Engine for Lakehouse Systems (SIGMOD 2022). **[Рецензия](tasks/sem10.md)**
 - [TODO] Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3 (SOSP 2021). **[Вопросы](tasks/sem11.md)**
 - [TODO] When Amnesia Strikes: Understanding and Reproducing Data Loss Bugs with Fault Injection (VLDB 2024). **[Реферат](tasks/sem12.md)**
 - [TODO] ... **[Мини-задание](tasks/sem13.md)**
